@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:awesome_select/awesome_select.dart';
-import 'package:awesome_select/src/state/selection.dart';
+import 'package:ffms_select/ffms_select.dart';
+import 'package:ffms_select/src/state/selection.dart';
 
 void main() {
   group('Single Choice', () {

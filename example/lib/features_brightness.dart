@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:awesome_select/awesome_select.dart';
+import 'package:ffms_select/ffms_select.dart';
 import 'package:theme_patrol/theme_patrol.dart';
 
 class FeaturesBrightness extends StatefulWidget {

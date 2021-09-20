@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:awesome_select/awesome_select.dart';
+import 'package:ffms_select/ffms_select.dart';
 import 'choices.dart' as choices;
 
 void main() {
