@@ -1,4 +1,4 @@
-library awesome_select;
+library ffms_select;
 
 export 'src/widget.dart';
 export 'src/text.dart';
